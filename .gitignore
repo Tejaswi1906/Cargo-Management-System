@@ -1,0 +1,18 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+
+# Angular / Node
+node_modules/
+.angular/
+dist/
+
+# Logs
+logs/
+*.log
+
+# Environment secrets
+appsettings.Development.json
+**/appsettings.Local.json

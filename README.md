@@ -1,4 +1,4 @@
-# Cargo_ Management_ System
+# Cargo Management System
 
 ## Project Overview
 
